@@ -1,0 +1,4 @@
+MyClass (name = "Tanya", value = 46)
+MyClass (name = "Tanya", value = 46)
+MyClass (name = "Tanya", value = 46)
+MyClass (name = "Tanya", value = 46)
